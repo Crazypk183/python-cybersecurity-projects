@@ -34,4 +34,3 @@ yaml
 
 ---
 
-Want me to generate a full sample `README.md` and `.gitignore` for this project now?
